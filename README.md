@@ -14,6 +14,8 @@ Japanese	回向 or 廻向
 Tibetan	bsngo ba
 
 
+船长微博备份。
+
 本仓库文件为粉丝收集，与他人无关，侵权删。
 
 长期维护中。
